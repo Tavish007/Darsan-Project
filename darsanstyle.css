@@ -121,6 +121,7 @@
 	  background-color: black;
 	  min-width: 175px;
 	  z-index: 1;
+	  border: 2px solid black;
 	}
 
 	.dropdown-content a {
@@ -147,9 +148,8 @@
 	    background-color: black;
 	    min-width: 175px;
 	    z-index: 1;
-	    margin-top: 42px;
-	    border-top: 2px solid black;
-	    border-bottom: 2px solid black;
+	    margin-top: 44px;
+	    border: 2px solid black;
 	}
 
 	.dropdn-cnt-2 a {
@@ -174,16 +174,6 @@
 /* end drpdown */
 
 /* product show */
-
-	.saree{
-	    display: inline-block;
-	    margin-left: 10px;
-	    padding-top: 1%;
-	}
-
-	.sections{
-		font-family: Tahoma, sans-serif;
-	}
 
 	.products{
 		margin-left: 0.5%;
